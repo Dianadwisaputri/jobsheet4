@@ -13,7 +13,7 @@
             android:id="@+id/tvName1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nama1"
+            android:text="HESTI HIDAYAH"
             android:textSize="18sp"
             android:textColor="@color/black"
             />
@@ -22,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
-            android:text="NIM: 1234"
+            android:text="NIM: STE202202684"
             android:textSize="18sp"
             android:textColor="@color/black"
             />
@@ -38,7 +38,7 @@
             android:id="@+id/tvName2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nama2"
+            android:text="KHANIFAH RIZKI SETIANI"
             android:textSize="18sp"
             android:textColor="@color/black"
             />
@@ -47,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
-            android:text="NIM: 1234"
+            android:text="NIM: STE202202745"
             android:textSize="18sp"
             android:textColor="@color/black"
             />
@@ -90,7 +90,7 @@
             android:id="@+id/tvName4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nama4"
+            android:text="SENY ADINDA MARSELA"
             android:textSize="18sp"
             android:textColor="@color/black"
             />
@@ -99,7 +99,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
-            android:text="NIM: 1234"
+            android:text="NIM: STE202202720"
             android:textSize="18sp"
             android:textColor="@color/black"
             />
@@ -115,7 +115,7 @@
             android:id="@+id/tvName5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Nama5"
+            android:text="Meliana wahyuningtyas"
             android:textSize="18sp"
             android:textColor="@color/black"
             />
@@ -124,7 +124,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
 
-            android:text="NIM: 1234"
+            android:text="NIM: STE202202749"
             android:textSize="18sp"
             android:textColor="@color/black"
             />
